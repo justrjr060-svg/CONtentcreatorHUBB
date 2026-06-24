@@ -1,0 +1,13 @@
+export default function Admin() {
+  return (
+    <main style={{ padding: "20px" }}>
+      <h1>🔐 Admin Dashboard</h1>
+
+      <button>Add Creator</button>
+      <button>Edit Creator</button>
+      <button>Delete Creator</button>
+      <button>Upload Media</button>
+      <button>View Applications</button>
+    </main>
+  );
+}
