@@ -1,0 +1,16 @@
+export default function Careers() {
+  return (
+    <main style={{ padding: "20px" }}>
+      <h1>💼 Careers</h1>
+
+      <ul>
+        <li>Videographer</li>
+        <li>Editor</li>
+        <li>Photographer</li>
+        <li>Social Media Manager</li>
+      </ul>
+
+      <button>Apply Now</button>
+    </main>
+  );
+}
