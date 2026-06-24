@@ -1,0 +1,22 @@
+export default function Creators() {
+  return (
+    <main style={{ padding: "20px" }}>
+      <h1>👑 Creators</h1>
+
+      <div>
+        <h2>💖 Jeana</h2>
+        <button>View Profile</button>
+      </div>
+
+      <div>
+        <h2>💕 Pleasure</h2>
+        <button>View Profile</button>
+      </div>
+
+      <div>
+        <h2>🌸 Johanna</h2>
+        <button>View Profile</button>
+      </div>
+    </main>
+  );
+}
