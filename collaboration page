@@ -1,0 +1,11 @@
+export default function Collaborations() {
+  return (
+    <main style={{ padding: "20px" }}>
+      <h1>🤝 Collaborations</h1>
+
+      <p>Request creator collaborations and business partnerships.</p>
+
+      <button>Submit Collaboration Request</button>
+    </main>
+  );
+}
