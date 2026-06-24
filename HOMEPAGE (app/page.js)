@@ -1,0 +1,30 @@
+export default function Home() {
+  return (
+    <main style={{ padding: "20px", fontFamily: "Arial" }}>
+      <h1>💗 CONTENTCREATORHUB</h1>
+
+      <p>Premium Creator Network</p>
+
+      <h2>Build. Create. Collaborate. Earn.</h2>
+
+      <p>
+        Join a premium creator ecosystem where talent meets opportunity.
+      </p>
+
+      <button>🔥 Explore Creators</button>
+      <button>🤝 Collaborate</button>
+      <button>💼 Join Team</button>
+      <button>❤️ Support Hub</button>
+
+      <hr />
+
+      <h2>👑 Featured Creators</h2>
+
+      <ul>
+        <li>💖 Jeana - 32 Videos | 120 Photos</li>
+        <li>💕 Pleasure - 25 Videos | 25 Photos</li>
+        <li>🌸 Johanna - 50 Videos | 25 Photos</li>
+      </ul>
+    </main>
+  );
+}
